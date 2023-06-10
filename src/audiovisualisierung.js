@@ -175,9 +175,9 @@ function playSample(id) {
 	request.open('GET', music.songs[id].song , true);
 	request.responseType = 'arraybuffer';
 
-if(id==1){
-	pause();
-}
+//if(id==1){
+//	pause();
+//}
 
  	// When loaded decode the data
 	request.onload = function() {
