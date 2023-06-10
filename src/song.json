@@ -7,7 +7,7 @@
 			"artits":"Feint",
 			"album":"TheFatRat",
 			"duracion":"04:20",
-			"song":"Canciones/Neverbealone.mp3",
+			"song":"canciones/Neverbealone.mp3",
 			"image":"Imagenes/img/0.jpg"
 
 		},
@@ -18,7 +18,7 @@
 			"artits":"Anna Yvette - AFK",
 			"album":"TheFatRat",
 			"duracion":"04:45",
-			"song":"Canciones/Clouds.mp3",
+			"song":"canciones/Clouds.mp3",
 			"image":"Imagenes/img/1.jpg"
 		},
 
@@ -28,7 +28,7 @@
 			"artits":"Rivero - Anna Yvette",
 			"album":"TheFatRat",
 			"duracion":"03:10",
-			"song":"Canciones/Heaven.mp3",
+			"song":"canciones/Heaven.mp3",
 			"image":"Imagenes/img/2.png"
 		},
 
