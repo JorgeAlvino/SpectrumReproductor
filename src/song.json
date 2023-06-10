@@ -7,7 +7,7 @@
 			"artits":"Feint",
 			"album":"TheFatRat",
 			"duracion":"04:20",
-			"song":"adasdasd",
+			"song":"canciones/Neverbealone.mp3",
 			"image":"Imagenes/img/0.jpg"
 
 		},
@@ -38,7 +38,7 @@
 			"artits":"Lennart Schroot - Unknown Brain",
 			"album":"TheFatRat",
 			"duracion":"02:59",
-			"song":"Canciones/Kuyenda.mp3",
+			"song":"canciones/Kuyenda.mp3",
 			"image":"Imagenes/img/3.jpg"
 		},
 
@@ -48,7 +48,7 @@
 			"artits":"Uplink - Jason Gewalt",
 			"album":"Album Desconocido",
 			"duracion":"03:33",
-			"song":" Canciones/Euphoria.mp3",
+			"song":" canciones/Euphoria.mp3",
 			"image":"Imagenes/img/4.png"
 		},
 
@@ -58,7 +58,7 @@
 			"artits":"Varien - Laura Brehm",
 			"album":"Monstercat",
 			"duracion":"03:28",
-			"song":" Canciones/Valkyrie.mp3",
+			"song":" canciones/Valkyrie.mp3",
 			"image":"Imagenes/img/5.jpg"
 		},
 
@@ -68,7 +68,7 @@
 			"artits":"Cartoon x Futuristik - Mikk Mae",
 			"album":"NotCopyrightSound",
 			"duracion":"03:24",
-			"song":" Canciones/CUAgain.mp3",
+			"song":" canciones/CUAgain.mp3",
 			"image":"Imagenes/img/6.png"
 		},
 
@@ -78,7 +78,7 @@
 			"artits":"Different Heaven",
 			"album":"NotCopyrightSound",
 			"duracion":"03:12",
-			"song":" Canciones/SafeAndSound.mp3",
+			"song":" canciones/SafeAndSound.mp3",
 			"image":"Imagenes/img/7.png"
 		},
 
@@ -88,7 +88,7 @@
 			"artits":"Floatinutboat",
 			"album":"NotCopyrightSound",
 			"duracion":"04:12",
-			"song":" Canciones/SpiritofThings.mp3",
+			"song":" canciones/SpiritofThings.mp3",
 			"image":"Imagenes/img/8.png"
 		},
 
@@ -98,7 +98,7 @@
 			"artits":"Glude",
 			"album":"NotCopyrightSound",
 			"duracion":"03:07",
-			"song":" Canciones/Identity.mp3",
+			"song":" canciones/Identity.mp3",
 			"image":"Imagenes/img/9.png"
 		},
 
@@ -108,7 +108,7 @@
 			"artits":"IZECOLD - Molly Ann",
 			"album":"NotCopyrightSound",
 			"duracion":"03:51",
-			"song":" Canciones/Close.mp3",
+			"song":" canciones/Close.mp3",
 			"image":"Imagenes/img/10.png"
 		},
 
